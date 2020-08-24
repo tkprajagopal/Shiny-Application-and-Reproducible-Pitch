@@ -18,9 +18,9 @@ Please see the Appendix for links to the files.
 UI Examples
 ========================================================
 
-![Plot Tab](https://github.com/tkprajagopl/Developing-Data-Products-course--Assignment-Week-4-Shiny-Application-and-Reproducible-Pitch/blob/master/gapminder_using_shiny_1.PNG)
+![Plot Tab](https://github.com/tkprajagopal/Shiny-Application-and-Reproducible-Pitch/blob/master/gapminder_using_shiny_1.PNG)
 
-![Table Tab](https://github.com/tkprajagopal/Developing-Data-Products-course--Assignment-Week-4-Shiny-Application-and-Reproducible-Pitch/blob/master/gapminder_using_shiny_2.PNG)
+![Table Tab](https://github.com/tkprajagopal/Shiny-Application-and-Reproducible-Pitch/blob/master/gapminder_using_shiny_2.PNG)
 
 server.R
 ========================================================
